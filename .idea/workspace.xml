@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="535e3e30-f8d8-4132-a24f-f3582fd74a00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Reasearch_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Reasearch_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k4b32rtJqJUJNS9jK0e9ybi4Al" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Analyze duplication">
+    <configuration name="Analyze duplication" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Reasearch_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analyze duplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clone_detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reasearch_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clone_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reasearch_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tokenizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reasearch_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tokenizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Analyze duplication" />
+      <item itemvalue="Python.script" />
+      <item itemvalue="Python.clone_detector" />
+      <item itemvalue="Python.tokenizer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tokenizer" />
+        <item itemvalue="Python.clone_detector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="535e3e30-f8d8-4132-a24f-f3582fd74a00" name="Default Changelist" comment="" />
+      <created>1604962607380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604962607380</updated>
+    </task>
+    <task id="LOCAL-00001" summary="exact duplication">
+      <created>1605722789854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605722789854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="exact duplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="exact duplication" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609816437878">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604965129733" />
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1609816437878" />
+    <state x="428" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612372895692">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="428" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875@0.25.1440.875" timestamp="1612372895692" />
+    <state x="351" y="62" key="CommitChangelistDialog2" timestamp="1605722789522">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="351" y="62" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1605722789522" />
+    <state x="336" y="256" key="FileDocumentManager.FileCacheConflict" timestamp="1604963502762">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="336" y="256" key="FileDocumentManager.FileCacheConflict/0.23.1440.877@0.23.1440.877" timestamp="1604963502762" />
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom" timestamp="1612834884029">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605063904107" />
+    <state width="1440" height="190" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612834884029" />
+    <state width="1440" height="190" key="GridCell.Tab.0.center" timestamp="1612834884028">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605063904106" />
+    <state width="1440" height="190" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612834884028" />
+    <state width="1440" height="190" key="GridCell.Tab.0.left" timestamp="1612834884027">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605063904106" />
+    <state width="1440" height="190" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612834884027" />
+    <state width="1440" height="190" key="GridCell.Tab.0.right" timestamp="1612834884029">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605063904107" />
+    <state width="1440" height="190" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612834884029" />
+    <state width="1440" height="290" key="GridCell.Tab.1.bottom" timestamp="1612228365648">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="290" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612228365648" />
+    <state width="1440" height="290" key="GridCell.Tab.1.center" timestamp="1612228365644">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="290" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1612228365644" />
+    <state width="1440" height="290" key="GridCell.Tab.1.left" timestamp="1612228365643">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="290" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1612228365643" />
+    <state width="1440" height="290" key="GridCell.Tab.1.right" timestamp="1612228365647">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1440" height="290" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1612228365647" />
+    <state x="229" y="98" key="SettingsEditor" timestamp="1612996110504">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="229" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1612996110504" />
+    <state x="283" y="202" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610177452850">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="283" y="202" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875@0.25.1440.875" timestamp="1610177452850" />
+    <state x="385" y="214" key="search.everywhere.popup" timestamp="1605673632569">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1605673632569" />
+  </component>
+</project>

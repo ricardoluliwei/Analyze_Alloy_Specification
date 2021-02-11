@@ -17,7 +17,7 @@ for f in directory.iterdir():
     
     status = os.system(f"java -jar smelter.jar \"{str(f)}\" 1")
     
-    if status == 0:
+    if status != 0:
         failList.append(str(f))
     
 with open("failList.json", "w") as file:

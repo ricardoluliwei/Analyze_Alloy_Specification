@@ -134,8 +134,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.Analyze duplication" />
-      <item itemvalue="Python.script" />
       <item itemvalue="Python.clone_detector" />
+      <item itemvalue="Python.script" />
       <item itemvalue="Python.tokenizer" />
     </list>
     <recent_temporary>

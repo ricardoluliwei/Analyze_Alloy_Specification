@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="535e3e30-f8d8-4132-a24f-f3582fd74a00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Reasearch_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Reasearch_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alloy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alloy_analyzer/file_name.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alloy_analyzer/file_path.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alloy_analyzer/name_groups.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alloy_analyzer/prefix.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alloy_result" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnf_analyzer/file_name.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnf_analyzer/file_path.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnf_analyzer/name_groups.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnf_analyzer/prefix.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnf_result" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.als" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_analyzer/file_name.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_analyzer/file_path.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_result" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_word.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_word_result" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structure.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analyze duplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/Analyze duplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_hash.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_name.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_path.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/name_groups.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prefix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +64,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/alloy_analyzer" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -55,9 +83,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analyze duplication.py" />
@@ -111,6 +139,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Reasearch_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tokenizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Reasearch_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,10 +185,12 @@
       <item itemvalue="Python.Analyze duplication" />
       <item itemvalue="Python.clone_detector" />
       <item itemvalue="Python.script" />
+      <item itemvalue="Python.temp" />
       <item itemvalue="Python.tokenizer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.temp" />
         <item itemvalue="Python.tokenizer" />
         <item itemvalue="Python.clone_detector" />
       </list>
@@ -172,70 +223,53 @@
     <option name="LAST_COMMIT_MESSAGE" value="exact duplication" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609816437878">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618372119497">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604965129733" />
-    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1609816437878" />
-    <state x="428" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612372895692">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1618372119497" />
+    <state width="1419" height="287" key="GridCell.Tab.0.bottom" timestamp="1621317620392">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="428" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875@0.25.1440.875" timestamp="1612372895692" />
-    <state x="351" y="62" key="CommitChangelistDialog2" timestamp="1605722789522">
+    <state width="1419" height="287" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1621317620392" />
+    <state width="1419" height="287" key="GridCell.Tab.0.center" timestamp="1621317620391">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="351" y="62" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1605722789522" />
-    <state x="336" y="256" key="FileDocumentManager.FileCacheConflict" timestamp="1604963502762">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="336" y="256" key="FileDocumentManager.FileCacheConflict/0.23.1440.877@0.23.1440.877" timestamp="1604963502762" />
-    <state width="1440" height="190" key="GridCell.Tab.0.bottom" timestamp="1612834884029">
+    <state width="1419" height="287" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1621317620391" />
+    <state width="1419" height="287" key="GridCell.Tab.0.left" timestamp="1621317620390">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605063904107" />
-    <state width="1440" height="190" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612834884029" />
-    <state width="1440" height="190" key="GridCell.Tab.0.center" timestamp="1612834884028">
+    <state width="1419" height="287" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1621317620390" />
+    <state width="1419" height="287" key="GridCell.Tab.0.right" timestamp="1621317620391">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605063904106" />
-    <state width="1440" height="190" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1612834884028" />
-    <state width="1440" height="190" key="GridCell.Tab.0.left" timestamp="1612834884027">
+    <state width="1419" height="287" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1621317620391" />
+    <state width="1419" height="281" key="GridCell.Tab.1.bottom" timestamp="1618548188022">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605063904106" />
-    <state width="1440" height="190" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1612834884027" />
-    <state width="1440" height="190" key="GridCell.Tab.0.right" timestamp="1612834884029">
+    <state width="1419" height="281" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1618548188022" />
+    <state width="1419" height="281" key="GridCell.Tab.1.center" timestamp="1618548188021">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605063904107" />
-    <state width="1440" height="190" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1612834884029" />
-    <state width="1440" height="290" key="GridCell.Tab.1.bottom" timestamp="1612228365648">
+    <state width="1419" height="281" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1618548188021" />
+    <state width="1419" height="281" key="GridCell.Tab.1.left" timestamp="1618548188021">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="290" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1612228365648" />
-    <state width="1440" height="290" key="GridCell.Tab.1.center" timestamp="1612228365644">
+    <state width="1419" height="281" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1618548188021" />
+    <state width="1419" height="281" key="GridCell.Tab.1.right" timestamp="1618548188022">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="290" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1612228365644" />
-    <state width="1440" height="290" key="GridCell.Tab.1.left" timestamp="1612228365643">
+    <state width="1419" height="281" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1618548188022" />
+    <state x="229" y="98" key="SettingsEditor" timestamp="1620627025960">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="290" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1612228365643" />
-    <state width="1440" height="290" key="GridCell.Tab.1.right" timestamp="1612228365647">
+    <state x="229" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1620627025960" />
+    <state x="383" y="219" width="674" height="486" key="find.popup" timestamp="1618536552429">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1440" height="290" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1612228365647" />
-    <state x="229" y="98" key="SettingsEditor" timestamp="1612996110504">
+    <state x="383" y="219" width="674" height="486" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1618536552429" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1618535565544">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="229" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1612996110504" />
-    <state x="283" y="202" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610177452850">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="283" y="202" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.875@0.25.1440.875" timestamp="1610177452850" />
-    <state x="385" y="214" key="search.everywhere.popup" timestamp="1605673632569">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="385" y="214" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1605673632569" />
+    <state width="600" height="424" key="javadoc.popup/0.25.1440.875@0.25.1440.875" timestamp="1618535565544" />
   </component>
 </project>
